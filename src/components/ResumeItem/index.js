@@ -8,7 +8,7 @@ const ResumeItem = ({ title, Icon, value }) => {
                 <C.HeaderTitle>{title}</C.HeaderTitle>
                 <Icon />
             </C.Header>
-            <C.Total>{value.toLocaleString('pt-br', { style: 'currency', currency: 'BRL' })}</C.Total>
+            <C.Total>{value}</C.Total>
         </C.Container>
     );
 };
