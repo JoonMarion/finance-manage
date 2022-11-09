@@ -51,4 +51,8 @@ export const Button = styled.button`
     cursor: pointer;
     color: white;
     background-color: teal;
+
+    &&:hover {
+        opacity: 0.7;
+    }
 `;
