@@ -17,7 +17,7 @@ export const Container = styled.div`
         }
 
         span {
-            font-size: 20px;
+            font-size: 1rem;
         }
 
         svg {
