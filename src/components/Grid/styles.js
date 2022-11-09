@@ -10,13 +10,13 @@ export const Table = styled.table`
     margin: 20px auto;
 `;
 
-const Thead = styled.thead``;
+export const Thead = styled.thead``;
 
-const Tbody = styled.tbody``;
+export const Tbody = styled.tbody``;
 
-const Tr = styled.tr``;
+export const Tr = styled.tr``;
 
-const Th = styled.th`
+export const Th = styled.th`
     border-bottom: inset;
     padding-bottom: 5px;
     text-align: ${(props) => (props.alignCenter ? 'center' : 'start')};
