@@ -4,4 +4,4 @@
 
 ## Os dados ficam salvos no local storage, ou armazenamento local, do seu navegador.
 
-Acessível em: https://manage-finance.netlify.app/
+Acessível em: https://financemanage.netlify.app/
